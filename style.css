@@ -1,0 +1,17 @@
+#id1{
+    width: 100%;
+    height: 502px;
+    background-image: url('car.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#id2{
+    width: 100%;
+    height: 500px;
+    /* background-color: antiquewhite; */
+    position: absolute;
+    color: white;
+    
+}
